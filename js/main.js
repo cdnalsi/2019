@@ -116,7 +116,7 @@
     Typed js Active
 =========================================================================*/
     $(".typed").typed({
-        strings: ["pianist", "composer", "arranger", "producer"],
+        strings: ["pianist", "composer", "arranger", "producer", "conductor", "pianist", "composer", "arranger", "designer", "programmer"],
         loop: true,
         typeSpeed: 150
     });
